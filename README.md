@@ -1,3 +1,0 @@
-colt
-
-dis
